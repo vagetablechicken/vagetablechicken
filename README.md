@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wei</h1>
-<h3 align="center">A backend engineer</h3>
+<h2 align="center">A backend engineer</h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -29,7 +29,6 @@
 <p align="center">
 <a href="https://github.com/vagetablechicken">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vagetablechicken&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vagetablechicken&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
