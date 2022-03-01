@@ -36,5 +36,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:huangwei@apache.org"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:huangwei@apache.org"><img src="https://img.shields.io/badge/-huangwei@apache.org-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
