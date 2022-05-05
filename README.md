@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [my repo](my repo)
 
-- 📝 I regularly write articles on(not often) [vagetablechicken.github.io](vagetablechicken.github.io)
+- 📝 I regularly write articles on(not often) [vagetablechicken.github.io](https://vagetablechicken.github.io/)
 
 - 📫 How to reach me **huangwei@apache.org**
 
