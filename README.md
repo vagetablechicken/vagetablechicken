@@ -3,9 +3,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on [OpenMLDB](https://github.com/4paradigm/OpenMLDB)
+- 🔭 I’m currently working on AI applications
+  - worked on Apache Pegasus, Apache Doris, 4paradigm OpenMLDB
 
-- 👨‍💻 All of my projects are available at [my repo](my repo)
+- 👨‍💻 All of my projects are available at [my repos](https://github.com/vagetablechicken?tab=repositories) and the official repos
 
 - 📝 I regularly write articles on(not often) [vagetablechicken.github.io](https://vagetablechicken.github.io/)
 
